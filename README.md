@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehan Malinda</h1>
 <h3 align="center">𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿 & 𝗙𝗼𝘂𝗻𝗱𝗲𝗿 𝗼𝗳 𝗕𝗼𝘇𝗺𝗼𝘃𝗶𝗲 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehan-malinda-sd&label=Profile%20views&color=0e75b6&style=flat" alt="shehan-malinda-sd" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/shehanmalindasd" target="blank"><img src="https://img.shields.io/twitter/follow/shehanmalindasd?logo=twitter&style=for-the-badge" alt="shehanmalindasd" /></a> </p>
 

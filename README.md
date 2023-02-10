@@ -15,8 +15,6 @@
 
 - 📧 How to reach me **ShehanMalinda.ma.ama@gmail.com**
 
-- ⭕ Something to think about **Try and fail, but don't fail to try. [Stephen Kaggwa]**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shehanmalindasd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shehanmalindasd" height="30" width="40" /></a>

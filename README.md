@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shehanmalindasd" target="blank"><img src="https://img.shields.io/twitter/follow/shehanmalindasd?logo=twitter&style=for-the-badge" alt="shehanmalindasd" /></a> </p>
 
-- ⭕ I’m currently working on Co op Maneger
+- ⭕ I’m currently working on Op Maneger & Designing
 
 - 🎓 I’m currently learning **Fullstack software Engineer at Java Institute Sri Lanka**
 

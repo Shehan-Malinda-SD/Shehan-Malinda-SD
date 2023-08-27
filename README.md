@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shehan Malinda</h1>
-<h3 align="center">𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿 & 𝗙𝗼𝘂𝗻𝗱𝗲𝗿 𝗼𝗳 Naadhaya</h3>
+<h3 align="center">𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿 & 𝗙𝗼𝘂𝗻𝗱𝗲𝗿 𝗼𝗳 Naadhaya & Bozmovie Offial</h3>
 
 
 
